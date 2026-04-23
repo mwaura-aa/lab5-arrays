@@ -19,7 +19,7 @@
 // 2. Access and print the 3rd and 5th elements by index
 // 3. Traverse using a for loop — print each value with its index:
 //    "Reading [0]: 36.5°C"
-// 4. Traverse using foreach — same output format
+// 4. Traverse using foreach — same output format 
 
 // TODO: Exercise A — your code here
 
